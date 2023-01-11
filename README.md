@@ -1,8 +1,11 @@
+[![MasterHead](https://i.pinimg.com/originals/19/87/d7/1987d7b6c470160e56ca2d95714046d2.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Bhuyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1031769796238381108/1062655790177079366/9c239d9b-fee5-430d-a4e6-bbcb9b1645ad_1.jpg">
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankkk1t&label=Profile%20views&color=0e75b6&style=flat" alt="ankkk1t" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankkk1t" alt="ankkk1t" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankkk1t" target="blank"><img src="https://img.shields.io/twitter/follow/ankkk1t?logo=twitter&style=for-the-badge" alt="ankkk1t" /></a> </p>
 
