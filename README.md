@@ -1,11 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/19/87/d7/1987d7b6c470160e56ca2d95714046d2.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Bhuyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAC/sultan-alrefaei-programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankkk1t&label=Profile%20views&color=0e75b6&style=flat" alt="ankkk1t" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankkk1t" alt="ankkk1t" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankkk1t" target="blank"><img src="https://img.shields.io/twitter/follow/ankkk1t?logo=twitter&style=for-the-badge" alt="ankkk1t" /></a> </p>
 
@@ -33,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ankkk1t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ankkk1t" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankkk1t&show_icons=true&locale=en&layout=compact" alt="ankkk1t" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankkk1t&show_icons=true&locale=en" alt="ankkk1t" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankkk1t&" alt="ankkk1t" /></p>
