@@ -1,4 +1,3 @@
-[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4469e9106897763.5f9a63c0dac80.gif](https://cdn.discordapp.com/attachments/1031769796238381108/1062731535129788487/pikrepo.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Bhuyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1031769796238381108/1062655790177079366/9c239d9b-fee5-430d-a4e6-bbcb9b1645ad_1.jpg">
