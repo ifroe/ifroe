@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ankitbhuyans@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankkk1t/](https://www.linkedin.com/in/ankkk1t/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ankkk1t/](https://www.linkedin.com/in/ifroe/)
 
 - ⚡ Fun fact **I think I am funny**
 
