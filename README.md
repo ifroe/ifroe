@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ankitbhuyans@gmail.com**
 
-- 📄 Connect with me at: [https://www.linkedin.com/in/ifroe/](https://www.linkedin.com/in/ifroe/)
-                    [https://www.twitter.com/ifroe_](https://www.twitter.com/ifroe_/)
-
+- 📄 My profile links: [https://www.linkedin.com/in/ifroe/](https://www.linkedin.com/in/ifroe/)
+                          [https://www.twitter.com/ifroe_](https://www.twitter.com/ifroe_/)
+                          [[https://g.dev/ifroe](https://g.dev/ifroe)
 - ⚡ Fun fact **I think I am funny**
