@@ -5,7 +5,7 @@
 
 - 📫 Reach me at: **ankitbhuyans@gmail.com**
 
-- 📄 Connect with me at: [https://www.linkedin.com/in/paneerpirate/](https://www.linkedin.com/in/paneerpirate/)
-                        [https://www.twitter.com/paneerpirate](https://www.twitter.com/paneerpirate/)
-                        [https://g.dev/paneerpirate](https://g.dev/paneerpirate)
+- 📄 Connect with me at: [https://www.linkedin.com/in/4nkkkit/](https://www.linkedin.com/in/4nkkkit/)
+                        [https://www.twitter.com/4nkkkit](https://www.twitter.com/4nkkkit/)
+                        [https://g.dev/4nkkkit](https://g.dev/4nkkkit)
 - ⚡ Fun fact **I think I am funny**
